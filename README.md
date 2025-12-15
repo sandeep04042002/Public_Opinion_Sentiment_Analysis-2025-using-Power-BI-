@@ -1,0 +1,2 @@
+# Public_Opinion_Sentiment_Analysis-2025-using-Power-BI-
+This project focuses on analyzing public opinion and sentiment trends across India in 2025 using Power BI. The dataset includes social and digital engagement data categorized by Region, Political Party, Leader, Topic, Platform, and Date, along with sentiment metrics such as Positive, Negative, Neutral counts, Sentiment Score, and Engagement Score.
